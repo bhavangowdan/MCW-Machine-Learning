@@ -1,8 +1,10 @@
 # Getting Started with Lab
 
 1. Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the the lab.
-1. To get the lab environment details, you can select **Lab Environment** tab. 
+1. To get the lab environment details, you can select **Lab Environment** tab.
 
+> You will see UniqueID value on **Environment Details** tab, use it wherever you see UniqueID in lab steps.
+  
    ![](images/mlops-cred.png "Lab Environment")
  
  
@@ -48,9 +50,9 @@
 
    ![](images/23.png "Resource groups")
    
-1. Confirm you have all resource group are present as shown below.
+1. Confirm you have  resource group  present as shown below.
 
    ![](images/mlops-rg.png "Resource groups")
    
-1. Now, click on the **Resource group** 
+1. Click on Next to proceed for the Lab
 
