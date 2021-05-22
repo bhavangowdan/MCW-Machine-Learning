@@ -3,14 +3,14 @@
 1. Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the the lab.
 1. To get the lab environment details, you can select **Lab Environment** tab. 
 
-   ![](images/udacity-01.png "Lab Environment")
+   ![](images/mlops-cred.png "Lab Environment")
  
  
  
 ## Login to Azure Portal
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
 
-   ![azure portal.](images/udacity-02.png)
+   ![azure portal.](images/mlops-vm.png)
    
 1. When you click on Azure portal, edge browser welcome screen will come up, select **Get started**.
 
@@ -50,7 +50,7 @@
    
 1. Confirm you have all resource group are present as shown below.
 
-   ![](images/udacity-03.png "Resource groups")
+   ![](images/mlops-rg.png "Resource groups")
    
 1. Now, click on the **Resource group** 
 
