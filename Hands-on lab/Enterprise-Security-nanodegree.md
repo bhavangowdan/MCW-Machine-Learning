@@ -10,7 +10,7 @@
 ## Login to Azure Portal
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
 
-   ![azure portal.](images/udacity-02.png)
+   ![azure portal.](images/labg.PNG)
    
 1. When you click on Azure portal, edge browser welcome screen will come up, select **Get started**.
 
